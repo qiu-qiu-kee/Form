@@ -3725,8 +3725,8 @@ faye-websocket@~0.11.1:
 
 figgy-pudding@^3.5.1:
   version "3.5.2"
-  resolved "https://registry.npm.taobao.org/figgy-pudding/download/figgy-pudding-3.5.2.tgz?cache=0&sync_timestamp=1585069183222&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ffiggy-pudding%2Fdownload%2Ffiggy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
-  integrity sha1-tO7oFIq7Adzx0aw0Nn1Z4S+mHW4=
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
+  integrity sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==
 
 figures@^3.0.0:
   version "3.2.0"
@@ -3904,6 +3904,18 @@ form-data@~2.3.2:
     asynckit "^0.4.0"
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
+
+form-gen-parser@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/form-gen-parser/-/form-gen-parser-1.0.3.tgz#31745bc58e75f98a7130622930924199b6dc0fbf"
+  integrity sha512-qwYIyY+itpFKRuKU06eR25XHq1/dBbUPuL+E36cv72enrxcuE1l0fi84HubbdfAZ9j4D/0biPnMVWLrdfZ86OA==
+  dependencies:
+    form-gen-render "^1.0.0"
+
+form-gen-render@^1.0.0:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/form-gen-render/-/form-gen-render-1.0.4.tgz#b5ca7b6800ca6e0a3ff65623dae90030c9fbf43a"
+  integrity sha512-k/cSx8ZNIjahBA0r1Rwu7zeu3auKFMQR6RaD7A/DRRyv/1BDme7jjZ8B80Y1wnTNMYQPB9DOK6mrDADHtFlCGg==
 
 forwarded@~0.1.2:
   version "0.1.2"
@@ -7576,9 +7588,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.npm.taobao.org/ssri/download/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha1-KjxBso3UW2K2Nnbst0ABJlrp7dg=
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
