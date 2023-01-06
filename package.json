@@ -27,7 +27,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-service": "~5.0.8",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.0.0",
@@ -35,7 +35,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "sass": "^1.23.7",
     "sass-loader": "^8.0.0",
-    "svg-sprite-loader": "^4.1.6",
+    "svg-sprite-loader": "^6.0.11",
     "vue-template-compiler": "^2.6.11"
   },
   "homepage": "https://jakhuang.github.io/form-generator"
